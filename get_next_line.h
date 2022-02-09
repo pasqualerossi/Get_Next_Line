@@ -16,6 +16,8 @@
 # include <stdlib.h>
 # include <unistd.h>
 
+//#include <stdlib.h> and <unistd.h> for *malloc(), free(), & read()*.
+
 char	*ft_substr(char const *s, unsigned int start, size_t len);
 int		ft_strlen(const char *str);
 char	*ft_strchr(const char *s, int i);
