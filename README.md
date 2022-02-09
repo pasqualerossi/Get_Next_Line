@@ -1,3 +1,7 @@
+# Get_Next_Line
+This project is about programming a function that allows you to read content line by line. 
+This is done by returning a line read from a file descriptor.
+
 # Get_Next_Line Results
 
 <img width="1578" alt="Screen Shot 2021-10-22 at 5 33 40 PM" src="https://user-images.githubusercontent.com/58959408/138408834-830aea97-b3f4-4836-be35-19f3f6818325.png">
