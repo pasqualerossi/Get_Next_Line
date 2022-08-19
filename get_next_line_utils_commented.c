@@ -52,8 +52,7 @@ int	ft_strlen(const char *str)
 
 /* This function takes an int as an argument and counts 
  * the length of the string up to (but not including) the 
- * null terminator. Then increments until the string is completed.
- * Then increments until the string is completed. */
+ * null terminator. Then increments until the string is completed. */
 
 char	*ft_strchr(const char *s, int i)
 {
