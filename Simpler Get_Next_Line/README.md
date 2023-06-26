@@ -1,3 +1,9 @@
+# Note
+
+We still ain't 100% sure if this will pass Moulinette.
+
+<br>
+
 # Test Results
 
 This is the test results of the simpler get_next_line project using this tester - https://github.com/pasqualerossi/42-Cursus-Tester
